@@ -17,6 +17,8 @@ operations["/"]=divide
 
 
 
+
+
 def calculator():
     print("Welcome to the calculator")
     num1=float(input("Enter first number: "))
